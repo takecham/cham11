@@ -1,0 +1,24 @@
+.title {
+  color: #02ccba;
+  opacity:１;
+}
+body{
+  background-image:url(https://stat.ameba.jp/user_images/20191107/22/mountaintop-1222/c8/bb/j/o1080072014634197712.jpg?caw=800);
+  background-size:cover;
+}
+div{
+  color:#00FFFF;
+  opacity:１;
+  font-size:20px;
+  letter-spacing:10px;
+  float:right;
+  cursor: pointer;
+  text-shadow:#C0C0C0;
+}
+a:active{
+  background-color:#C0C0C0;
+  box-shadow:none;
+  position: relative;
+  top:7px;
+}
+a:hover {background-color:gray;}
